@@ -71,8 +71,8 @@ To run the Fine Dine app locally, follow these simple steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/navinds/Zomato-Data-Analysis-and-Visualization.git
-   cd Zomato-Data-Analysis-and-Visualization
+   git clone https://github.com/ppspoornesh/Zomato-Data_Analysis.git
+   cd Zomato-Data-Analysis
    ```
 
 2. **Install the required packages**:
@@ -115,13 +115,13 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## About the Developer
 
-Navin's Fine Dine is developed by Navin Kumar S, a dedicated tech enthusiast with a passion for the sea of data science and AI. My goal is to become a skilled data scientist.
+Navin's Fine Dine is developed by Gorrela Poornesh Pavan Sai, a dedicated tech enthusiast with a passion for the sea of data science and AI. My goal is to become a skilled data scientist.
 
 Beyond the lines of code, my aim is to innovate and be a part of transformative technological evolution. The world needs solutions that not only solve problems but redefine them. I'm here to create change.
 
 ## Contact Information
 
-- **LinkedIn:** [Navin](https://www.linkedin.com/in/navinkumarsofficial/)
-- **Email:** navin.workwise@gmail.com
+- **LinkedIn:** [Poornesh Pavan Sai Gorrela](https://www.linkedin.com/in/poornesh-pavan-sai-gorrela-8156a2252)
+- **Email:** pavansaipoornes99@gmail.com
 
 Feel free to connect with me on LinkedIn or reach out via email for any inquiries or collaboration opportunities.
